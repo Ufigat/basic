@@ -1,3 +1,3 @@
-module github.com/Ufigat/basic.git
+module github.com/Ufigat/basic
 
 go 1.20
