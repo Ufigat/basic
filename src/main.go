@@ -1,8 +1,9 @@
 package main
 
 import (
-	service "basic/src/service"
 	"fmt"
+
+	service "github.com/Ufigat/basic"
 )
 
 func main() {
